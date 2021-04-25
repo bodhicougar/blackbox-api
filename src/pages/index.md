@@ -214,7 +214,9 @@ sections:
 seo:
   type: stackbit_page_meta
   title: BlackBox APIs
-  description: The preview of the App theme
+  description: >-
+    APIs von uns. Probleme Datenstämme zusammenzubinden...? Wir wissen, wie es
+    geht.
   extra:
     - name: 'og:type'
       value: website
