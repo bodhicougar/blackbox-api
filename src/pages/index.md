@@ -213,7 +213,7 @@ sections:
     background_color: none
 seo:
   type: stackbit_page_meta
-  title: Stackbit App Theme
+  title: BlackBox APIs
   description: The preview of the App theme
   extra:
     - name: 'og:type'
