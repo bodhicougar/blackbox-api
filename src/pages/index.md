@@ -214,9 +214,9 @@ sections:
 seo:
   type: stackbit_page_meta
   title: 'BlackBox APIs: Sockets & Connectors'
-  description: >-
-    APIs von uns. Probleme Datenstämme zusammenzubinden...? Wir wissen, wie es
-    geht.
+  description: |-
+    APIs von uns. Probleme Datenstämme zusammenzubinden...?
+    Wir wissen, wie es geht.
   extra:
     - name: 'og:type'
       value: website
